@@ -1,0 +1,23 @@
+{
+  "name": "pkm-card",
+  "version": "0.0.1",
+  "description": "My Pokemon card.\"",
+  "main": "index.js",
+  "scripts": {
+    "pug": "pug -O options.js -o public views",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0ink0/shield.git"
+  },
+  "keywords": [
+    "pokemon"
+  ],
+  "author": "Yi (@telgniw)",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/0ink0/shield/issues"
+  },
+  "homepage": "https://0ink0.github.io/shield/"
+}
